@@ -1,5 +1,7 @@
 ## Hi there, I'm Boxiang (William) Fu 👋
 
+#### I am broadly interested in Robot Autonomy, Controls and SLAM
+
 - 🏫 I’m currently pursuing my Master of Science in Robotic Systems Development (MRSD) at Carnegie Mellon University.
 - 📚 I completed my undergraduate studies at the University of Melbourne with a Bachelor of Science (Mathematical Physics), Bachelor of Commerce (Economics & Finance), and Diploma in Languages (Chinese Studies)
 - 🏆 I was the University Medalist (Rank: 1st/1800+) for my BCom cohort and was the Proxime Accessit (Rank: 2nd/2400+) for my BSci cohort.
